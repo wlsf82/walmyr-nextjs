@@ -36,7 +36,7 @@ const achievements = [
     year: '2014',
     events: [
       'Moved back to Florianópolis =)',
-      'Joined Taller as an Agile Testing Coach',
+      'Joined Taller Digital Business as an Agile Testing Coach',
       'Launch of the blog Talking About Testing'
     ]
   },
@@ -80,7 +80,7 @@ const achievements = [
   {
     year: '2020',
     events: [
-      'Left GitLab and re-joined Taller as a Software Developer'
+      'Left GitLab and re-joined Taller Digital Business as a Software Developer'
     ]
   },
 ]
