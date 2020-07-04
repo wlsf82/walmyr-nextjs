@@ -20,7 +20,7 @@ export default function Menu() {
     <ul>
       {menuItems.map(menuItem => (
         <li className={utilStyles.list}>
-          <a href={menuItem.url} target="_blank" rel="noopener noreferrer">
+          <a href={menuItem.url}>
             {menuItem.title}
           </a>
         </li>
