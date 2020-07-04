@@ -16,7 +16,22 @@
 }
 
 .list {
-  list-style: none;
   display: inline-block;
   padding-right: 12px;
+}
+
+.list, .timelineItem {
+  list-style: none;
+}
+
+.timelineItem {
+  margin-left: -40px;
+}
+
+.lightText {
+  color: #999;
+}
+
+.darkGrayText {
+  color: #282828;
 }

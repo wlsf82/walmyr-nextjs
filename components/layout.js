@@ -1,5 +1,6 @@
 import Head from 'next/head'
 import Menu from './menu'
+import Timeline from './timeline'
 import styles from './layout.module.css'
 import utilStyles from '../styles/utils.module.css'
 
@@ -36,6 +37,7 @@ export default function Layout({ children }) {
         </>
       </header>
       <main>{children}</main>
+      <Timeline />
     </div>
   )
 }
