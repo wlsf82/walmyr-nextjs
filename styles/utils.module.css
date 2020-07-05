@@ -35,3 +35,9 @@
 .darkGrayText {
   color: #282828;
 }
+
+.footer {
+  border-top: 1px solid #d3d3d3;
+  margin-top: 50px;
+  text-align: center;
+}
