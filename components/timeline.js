@@ -4,7 +4,7 @@ const achievements = [
   {
     year: '2004',
     events: [
-      'Internship in manual testing at Hewlett Packard, Porto Alegre, RS, Brazil'
+      'Internship in manual testing at Hewlett-Packard, Porto Alegre, RS, Brazil'
     ]
   },
   {
