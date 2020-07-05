@@ -66,7 +66,7 @@ const achievements = [
   {
     year: '2018',
     events: [
-      'Move from Oslo to Amsterdam, Netherlands',
+      'Moved from Oslo to Amsterdam, Netherlands',
       'Launch of the online school Talking About Testing',
       'First course launched on Udemy'
     ]
