@@ -4,11 +4,16 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "test": "backstop test --config=test/mainConfig.js",
+    "backstop:approve": "backstop approve --config=test/mainConfig.js"
   },
   "dependencies": {
     "next": "9.3.5",
     "react": "16.13.1",
     "react-dom": "16.13.1"
+  },
+  "devDependencies": {
+    "backstopjs": "^5.0.1"
   }
 }
