@@ -39,4 +39,4 @@ In case of test failures due to expected visual changes in the website, run `yar
 
 ___
 
-Made with 💚 by [Walmyr Filho](https://walmyr-nextjs.vercel.app).
+Made with 💚 by [Walmyr Filho](https://walmyr.dev).
