@@ -10,7 +10,7 @@ const achievements = [
   {
     year: '2007',
     events: [
-      'Moved to Florianópolis, SC, Brazil'
+      'Moved to Florianópolis, SC, Brazil 🇧🇷'
     ]
   },
   {
@@ -22,14 +22,14 @@ const achievements = [
   {
     year: '2009',
     events: [
-      'First contact with test automation and JavaScript',
+      'First contact with test automation and JavaScript 👨‍💻',
       'Short experience as a PL/SQL developer'
     ]
   },
   {
     year: '2012',
     events: [
-      'Graduated as a bachelor in business management at PUC-RS'
+      'Graduated as a bachelor in business management at PUC-RS 🎓'
     ]
   },
   {
@@ -50,11 +50,11 @@ const achievements = [
     year: '2016',
     events: [
       'First time formally mentoring',
-      'I got married!',
-      'Moved from Brazil to Oslo, Norway',
+      'I got married! 🤵‍👰‍',
+      'Moved from Brazil to Oslo, Norway 🇳🇴',
       'Joined Whereby team (former appear.in)',
       'First post published on Medium',
-      'Launch of the Protractor book (English and Portuguese versions)'
+      'Launch of the Protractor book (English and Portuguese versions) 📚'
     ]
   },
   {
@@ -66,9 +66,9 @@ const achievements = [
   {
     year: '2018',
     events: [
-      'Moved from Oslo to Amsterdam, Netherlands',
+      'Moved from Oslo to Amsterdam, Netherlands 🇳🇱',
       'Launch of the online school Talking About Testing',
-      'First course launched on Udemy'
+      'First course launched on Udemy 👨‍🏫'
     ]
   },
   {
@@ -80,7 +80,7 @@ const achievements = [
   {
     year: '2020',
     events: [
-      'Left GitLab and re-joined Taller Digital Business as a Software Developer'
+      'Left GitLab and re-joined Taller Digital Business as a Software Developer 👨‍💻'
     ]
   },
 ]
