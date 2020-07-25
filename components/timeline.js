@@ -37,13 +37,14 @@ const achievements = [
     events: [
       'Moved back to Florianópolis =)',
       'Joined Taller Digital Business as an Agile Testing Coach',
-      'Launch of the blog Talking About Testing'
+      'Launch of the Talking About Testing blog'
     ]
   },
   {
     year: '2015',
     events: [
-      'Launch of the YouTube channel Talking About Testing'
+      'Launch of the Talking About Testing YouTube channel',
+      'Started lecturing in conferences in Brazil'
     ]
   },
   {
@@ -60,14 +61,15 @@ const achievements = [
   {
     year: '2017',
     events: [
-      'Launch of the protractor-helper library on NPM'
+      'Launch of the protractor-helper library on NPM',
+      'Started lecturing in conferences in Europe'
     ]
   },
   {
     year: '2018',
     events: [
       'Moved from Oslo to Amsterdam, Netherlands 🇳🇱',
-      'Launch of the online school Talking About Testing',
+      'Launch of the Talking About Testing online school',
       'First course launched on Udemy 👨‍🏫'
     ]
   },
