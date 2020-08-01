@@ -82,7 +82,7 @@ const achievements = [
   {
     year: '2020',
     events: [
-      'Left GitLab and re-joined Taller Digital Business as a Software Developer 👨‍💻'
+      'Left GitLab and re-joined Taller Digital Business as a Software Consultant 👨‍💻'
     ]
   },
 ]
