@@ -53,7 +53,7 @@ const achievements = [
       'First time formally mentoring',
       'I got married! 🤵‍👰‍',
       'Moved from Brazil to Oslo, Norway 🇳🇴',
-      'Joined Whereby team (former appear.in)',
+      'Joined Whereby team (former appear.in) as a software engineer in test',
       'First post published on Medium',
       'Launch of the Protractor book (English and Portuguese versions) 📚'
     ]
@@ -76,14 +76,14 @@ const achievements = [
   {
     year: '2019',
     events: [
-      'Joined GitLab\'s team'
+      'Joined GitLab\'s team as a senior software engineer in test'
     ]
   },
   {
     year: '2020',
     events: [
       'Left GitLab and re-joined Taller Digital Business as a Software Consultant 👨‍💻',
-      'Joined QWIC as a QA engineer 🚲'
+      'Joined QWIC as a senior quality assurance engineer 🚲'
     ]
   },
 ]
