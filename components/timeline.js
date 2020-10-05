@@ -82,8 +82,7 @@ const achievements = [
   {
     year: '2020',
     events: [
-      'Left GitLab and re-joined Taller Digital Business as a Software Consultant 👨‍💻',
-      'Joined QWIC as a Senior Quality Assurance Engineer 🚲'
+      'Left GitLab and joined QWIC as a Senior Quality Assurance Engineer 🚲'
     ]
   },
 ]
