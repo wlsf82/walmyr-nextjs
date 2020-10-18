@@ -82,7 +82,7 @@ const achievements = [
   {
     year: '2020',
     events: [
-      'Left GitLab and joined QWIC as a Senior Quality Assurance Engineer 🚲'
+      'Left GitLab and joined QWIC Dutch eBikes as a Senior Quality Assurance Engineer 🚲'
     ]
   },
 ]
