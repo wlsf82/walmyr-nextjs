@@ -10,13 +10,13 @@ const achievements = [
   {
     year: '2007',
     events: [
-      'Moved to Florianópolis, SC, Brazil'
+      'Moved to Florianópolis, SC, Brazil 🌴'
     ]
   },
   {
     year: '2008',
     events: [
-      'Moved back to Porto Alegre =P'
+      'Moved back to Porto Alegre 🏠'
     ]
   },
   {
@@ -35,7 +35,7 @@ const achievements = [
   {
     year: '2014',
     events: [
-      'Moved back to Florianópolis =)',
+      'Moved back to Florianópolis 🌴',
       'Joined Taller Digital Business as an Agile Testing Coach',
       'Launch of the Talking About Testing blog'
     ]
@@ -62,7 +62,7 @@ const achievements = [
     year: '2017',
     events: [
       'Launch of the protractor-helper library on NPM',
-      'Started lecturing in conferences in Europe'
+      'Started lecturing in conferences in Europe 🇪🇺'
     ]
   },
   {
