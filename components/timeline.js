@@ -85,6 +85,12 @@ const achievements = [
       'Left GitLab and joined QWIC Dutch eBikes as a Senior Quality Assurance Engineer 🚲'
     ]
   },
+  {
+    year: '2021',
+    events: [
+      'Left QWIC, and as teacher and founder, is taking the Talking About Testing online school to the next level 📈'
+    ]
+  },
 ]
 
 export default function Timeline() {
