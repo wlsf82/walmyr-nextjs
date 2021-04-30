@@ -89,7 +89,8 @@ const achievements = [
     year: '2021',
     events: [
       'Left QWIC, and as teacher and founder, is taking the Talking About Testing online school to the next level 📈',
-      'Approved as a Cypress.io Ambassador 🏆'
+      'Approved as a Cypress.io Ambassador 🏆',
+      'Reached 1k subscribers on YouTube 🥳'
     ]
   },
 ]
