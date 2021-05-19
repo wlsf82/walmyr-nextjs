@@ -10,15 +10,15 @@ body {
 
 * {
   box-sizing: border-box;
-  background-color: #fffffe;
+  background-color: #0f0e17;
 }
 
 h1 {
-  color: #094067;
+  color: #fffffe;
 }
 
 a {
-  color: #3da9fc;
+  color: #ff8906;
   text-decoration: none;
 }
 
@@ -32,5 +32,5 @@ img {
 }
 
 p {
-  color: #5f6c7b;
+  color: #a7a9be;
 }
