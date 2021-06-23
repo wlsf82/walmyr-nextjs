@@ -1,4 +1,4 @@
-# walmyr-nextjs
+# Walmyr Next.js
 
 My website created using [Next.js](https://nextjs.org).
 
