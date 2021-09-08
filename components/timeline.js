@@ -88,7 +88,7 @@ const achievements = [
   {
     year: '2021',
     events: [
-      'Left QWIC, and as teacher and founder, I\'m taking the Talking About Testing online school to the next level 📈',
+      'Left QWIC, and as instructor and founder, I\'m taking the Talking About Testing online school to the next level 📈',
       'Approved as a Cypress.io Ambassador 🏆',
       'Reached 1k subscribers on YouTube 🥳'
     ]
