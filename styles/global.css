@@ -10,7 +10,7 @@ body {
 
 * {
   box-sizing: border-box;
-  background-color: #0f0e17;
+  background-color: #16161a;
 }
 
 h1 {
@@ -18,7 +18,7 @@ h1 {
 }
 
 a {
-  color: #ff8906;
+  color: #7f5af0;
   text-decoration: none;
 }
 
@@ -32,5 +32,5 @@ img {
 }
 
 p {
-  color: #a7a9be;
+  color: #94a1b2;
 }
