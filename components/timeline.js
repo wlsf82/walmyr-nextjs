@@ -90,8 +90,8 @@ const achievements = [
     events: [
       'Left QWIC, and as instructor and founder, I\'m taking the Talking About Testing online school to the next level 📈',
       'Approved as a Cypress.io Ambassador 🏆',
-      'Reached 1k subscribers on YouTube 🥳',
-      'Reached 1k followers on Twitter 🎉'
+      'Reached 1.5K subscribers on YouTube 🥳',
+      'Reached 1K followers on Twitter 🎉'
     ]
   },
 ]
