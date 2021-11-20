@@ -10,8 +10,8 @@ const menuItems = [
     url: 'https://udemy.com/user/walmyr/'
   },
   {
-    title: 'One-on-one',
-    url: 'https://superpeer.com/walmyr'
+    title: 'YouTube',
+    url: 'https://youtube.com/playlist?list=PL-eblSNRj0QFCgBuHFSSJUeEYDm6wwvHI'
   }
 ]
 
