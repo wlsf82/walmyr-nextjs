@@ -94,6 +94,12 @@ const achievements = [
       'Reached 1K followers on Twitter 🎉'
     ]
   },
+  {
+    year: '2022',
+    events: [
+      'Got to 10k enrollments on my Udemy courses ✨'
+    ]
+  },
 ]
 
 export default function Timeline() {
