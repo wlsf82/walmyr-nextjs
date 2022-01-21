@@ -29,7 +29,7 @@ const achievements = [
   {
     year: '2012',
     events: [
-      'Graduated as a bachelor in business management at PUC-RS 🎓'
+      'Graduated as a bachelor in business administration at PUC-RS 🎓'
     ]
   },
   {
