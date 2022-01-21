@@ -69,8 +69,7 @@ const achievements = [
     year: '2018',
     events: [
       'Moved from Oslo to Amsterdam, Netherlands 🇳🇱',
-      'Launch of the Talking About Testing online school',
-      'First course launched on Udemy 👨‍🏫'
+      'Launch of the Talking About Testing online school 👨‍🏫'
     ]
   },
   {
