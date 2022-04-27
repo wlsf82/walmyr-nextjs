@@ -61,7 +61,7 @@ const achievements = [
   {
     year: '2017',
     events: [
-      'Launch of the protractor-helper library on NPM',
+      'Launch of the protractor-helper library on npm',
       'Started lecturing in conferences in Europe 🇪🇺'
     ]
   },
