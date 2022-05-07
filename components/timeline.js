@@ -100,7 +100,8 @@ const achievements = [
       'Together with Alekson Fortes, I started a podcast called Testando na Gringa (content in Portuguese) 🎙️',
       'The Talking About Testing channel has been approved to be part of the YouTube Partner Program ✅',
       'Moved from Amsterdam to Barcelona, Spain 🇪🇸',
-      'Joined Typeform as a Senior Quality Assistance Software Engineer'
+      'Joined Typeform as a Senior Quality Assistance Software Engineer',
+      'Reached 2.5K subscribers on YouTube'
     ]
   },
 ]
