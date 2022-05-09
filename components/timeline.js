@@ -100,7 +100,7 @@ const achievements = [
       'The Talking About Testing channel has been approved to be part of the YouTube Partner Program ✅',
       'Moved from Amsterdam to Barcelona, Spain 🇪🇸',
       'Joined Typeform as a Senior Quality Assistance Software Engineer',
-      'Reached 2.5K subscribers on YouTube'
+      'Reached 2.5K subscribers on YouTube 🥳'
     ]
   },
 ]
