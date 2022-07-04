@@ -101,7 +101,7 @@ const achievements = [
       'Moved from Amsterdam to Barcelona, Spain 🇪🇸',
       'Joined Typeform as a Senior Quality Assistance Software Engineer',
       'Reached 2.5K subscribers on YouTube 🥳',
-      'Launch o the Cypress .press() custom command'
+      'Launch o the Cypress .press() custom command on npm'
     ]
   },
 ]
