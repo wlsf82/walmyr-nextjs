@@ -98,6 +98,7 @@ const achievements = [
       'Got to 10k enrollments on my Udemy courses ✨',
       'Together with Alekson Fortes, I started a podcast called Testando na Gringa (content in Portuguese) 🎙️',
       'The Talking About Testing channel has been approved to be part of the YouTube Partner Program ✅',
+      'The Talking About Testing channel is sponsored by PrimeControl',
       'Moved from Amsterdam to Barcelona, Spain 🇪🇸',
       'Joined Typeform as a Senior Quality Assistance Software Engineer',
       'Reached 2.5K subscribers on YouTube 🥳',
