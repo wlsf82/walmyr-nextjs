@@ -101,8 +101,9 @@ const achievements = [
       'The Talking About Testing channel is sponsored by PrimeControl',
       'Moved from Amsterdam to Barcelona, Spain 🇪🇸',
       'Joined Typeform as a Senior Quality Assistance Software Engineer',
+      'Launch of the Cypress .press() custom command on npm',
       'Reached 3K subscribers on YouTube 🥳',
-      'Launch of the Cypress .press() custom command on npm'
+      'Reached 10K students on Udemy ⬆️'
     ]
   },
 ]
