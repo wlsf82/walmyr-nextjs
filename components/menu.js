@@ -2,12 +2,12 @@ import utilStyles from '../styles/utils.module.css'
 
 const menuItems = [
   {
-    title: 'Book',
-    url: 'https://leanpub.com/end-to-end-testing-with-protractor'
-  },
-  {
     title: 'Courses',
     url: 'https://udemy.com/user/walmyr/'
+  },
+  {
+    title: 'GitHub',
+    url: 'https://GitHub.com/wlsf82'
   },
   {
     title: 'YouTube',
