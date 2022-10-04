@@ -81,13 +81,13 @@ const achievements = [
   {
     year: '2020',
     events: [
-      'Left GitLab and joined QWIC Dutch eBikes as a Senior Quality Assurance Engineer 🚲'
+      'Joined QWIC Dutch eBikes as a Senior Quality Assurance Engineer 🚲'
     ]
   },
   {
     year: '2021',
     events: [
-      'Left QWIC, and as instructor and founder, I\'m taking the Talking About Testing online school to the next level 📈',
+      'As instructor and founder, I\'m taking the Talking About Testing online school to the next level 📈',
       'Approved as a Cypress.io Ambassador 🏆',
       'Reached 1K followers on Twitter 🎉'
     ]
