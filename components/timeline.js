@@ -103,7 +103,7 @@ const achievements = [
       'Joined Typeform as a Senior Quality Assistance Software Engineer',
       'Launch of the Cypress .press() custom command on npm',
       'Reached 3K subscribers on YouTube 🥳',
-      'Reached 10K students on Udemy ⬆️'
+      'Reached 11K students on Udemy ⬆️'
     ]
   },
 ]
