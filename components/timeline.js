@@ -103,8 +103,11 @@ const achievements = [
       'Joined Typeform as a Senior Quality Assistance Software Engineer',
       'Launch of the Cypress .press() custom command on npm',
       'Reached 3.5K subscribers on YouTube 🥳',
-      'Reached 11.5K students on Udemy ⬆️'
     ]
+  },
+  {
+    year: '2023',
+    events: ['Reached 12K students on Udemy ⬆️']
   },
 ]
 
