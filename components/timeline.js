@@ -95,7 +95,6 @@ const achievements = [
   {
     year: '2022',
     events: [
-      'Got to 18K enrollments on my Udemy courses ✨',
       'Together with Alekson Fortes, I started a podcast called Testando na Gringa (content in Portuguese) 🎙️',
       'The Talking About Testing channel is approved to be part of the YouTube Partner Program ✅',
       'The Talking About Testing channel is sponsored by Prime Control',
@@ -107,7 +106,10 @@ const achievements = [
   },
   {
     year: '2023',
-    events: ['Reached 12K students on Udemy ⬆️']
+    events: [
+      'Reached 12K students on Udemy ⬆️',
+      'Got to 19K enrollments on my Udemy courses ✨',
+    ]
   },
 ]
 
