@@ -101,7 +101,6 @@ const achievements = [
       'Moved from Amsterdam to Barcelona, Spain 🇪🇸',
       'Joined Typeform as a Senior Quality Assistance Software Engineer',
       'Launch of the Cypress .press() custom command on npm',
-      'Reached 3.5K subscribers on YouTube 🥳',
     ]
   },
   {
@@ -109,6 +108,7 @@ const achievements = [
     events: [
       'Reached 12K students on Udemy ⬆️',
       'Got to 19K enrollments on my Udemy courses ✨',
+      'Reached 4K subscribers on YouTube 🥳',
     ]
   },
 ]
