@@ -5,7 +5,7 @@ import Footer from './footer'
 import styles from './layout.module.css'
 import utilStyles from '../styles/utils.module.css'
 
-const name = 'Walmyr Filho'
+const name = 'Walmyr'
 export const siteTitle = name
 
 export default function Layout({ children }) {
