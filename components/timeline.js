@@ -117,11 +117,11 @@ const achievements = [
 export default function Timeline() {
   return (
     <>
-      <h2 className={utilStyles.darkGrayText}>Here's a brief of my history</h2>
+      <h2 className={utilStyles.heading2}>Here's a brief of my history</h2>
       <ul>
         {achievements.map(achievement => (
           <li className={ utilStyles.timelineItem }>
-            <h2 className={utilStyles.lightText}>{ achievement.year }</h2>
+            <h2 className={utilStyles.listItemHeading2}>{ achievement.year }</h2>
             {achievement.events.map(event => <p>{ event }</p>)}
           </li>
         ))}
