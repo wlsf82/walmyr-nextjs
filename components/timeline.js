@@ -106,7 +106,7 @@ const achievements = [
   {
     year: '2023',
     events: [
-      'Reached 14K students on Udemy ⬆️',
+      'Reached 15K students on Udemy ⬆️',
       'Got to 24K enrollments on my Udemy courses ✨',
       'Reached 5K subscribers on YouTube 🥳',
       'Reached the mark of 100 Live Streams on YouTube 💯',
