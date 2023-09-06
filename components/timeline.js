@@ -110,6 +110,7 @@ const achievements = [
       'Got to 24K enrollments on my Udemy courses ✨',
       'Reached 5K subscribers on YouTube 🥳',
       'Reached the mark of 100 Live Streams on YouTube 💯',
+      'The Talking About Testing channel is sponsored by Zero Defect',
     ]
   },
 ]
