@@ -111,6 +111,7 @@ const achievements = [
       'Reached 5K subscribers on YouTube 🥳',
       'Reached the mark of 100 Live Streams on YouTube 💯',
       'The Talking About Testing channel is sponsored by Zero Defect',
+      'I spoke at the first CypressConf',
     ]
   },
 ]
