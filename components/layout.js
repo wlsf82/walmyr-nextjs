@@ -3,7 +3,7 @@ import Menu from './menu'
 import Timeline from './timeline'
 import Footer from './footer'
 import styles from './layout.module.css'
-import utilStyles from '../styles/utils.module.css'
+import { borderCircle, heading2Xl } from '../styles/utils.module.css'
 
 const name = 'Walmyr'
 export const siteTitle = name
@@ -31,10 +31,10 @@ export default function Layout({ children }) {
           <Menu />
           <img
             src="/images/profile.png"
-            className={`${styles.headerHomeImage} ${utilStyles.borderCircle}`}
+            className={`${styles.headerHomeImage} ${borderCircle}`}
             alt={name}
           />
-          <h1 className={utilStyles.heading2Xl}>{name}</h1>
+          <h1 className={heading2Xl}>{name}</h1>
         </>
       </header>
       <main>{children}</main>

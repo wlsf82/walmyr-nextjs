@@ -1,4 +1,4 @@
-import utilStyles from '../styles/utils.module.css'
+import { list } from '../styles/utils.module.css'
 
 const menuItems = [
   {
@@ -19,7 +19,7 @@ export default function Menu() {
   return (
     <ul>
       {menuItems.map(menuItem => (
-        <li className={utilStyles.list}>
+        <li className={list}>
           <a href={menuItem.url}>
             {menuItem.title}
           </a>
