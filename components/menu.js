@@ -18,10 +18,10 @@ const menuItems = [
 export default function Menu() {
   return (
     <ul>
-      {menuItems.map(menuItem => (
+      {menuItems.map(({ url, title }) => (
         <li className={list}>
-          <a href={menuItem.url}>
-            {menuItem.title}
+          <a href={url}>
+            {title}
           </a>
         </li>
       ))}
