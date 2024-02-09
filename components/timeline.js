@@ -11,10 +11,10 @@ export default function Timeline() {
     <>
       <h2 className={ heading2 }>Here's a brief of my history</h2>
       <ul>
-        {achievements.map(achievement => (
+        {achievements.map(({ year, events }) => (
           <li className={ timelineItem }>
-            <h2 className={ listItemHeading2 }>{ achievement.year }</h2>
-            { achievement.events.map(event => <p>{ event }</p>) }
+            <h2 className={ listItemHeading2 }>{ year }</h2>
+            { events.map(event => <p>{ event }</p>) }
           </li>
         ))}
       </ul>
