@@ -114,6 +114,12 @@ const achievements = [
       'Together with Alekson Fortes, we started a podcast called Tech & Accent 🎙️',
     ]
   },
+  {
+    year: '2024',
+    events: [
+      'Reached the mark of 150 Live Streams on YouTube',
+    ]
+  }
 ]
 
 export default achievements
