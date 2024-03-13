@@ -118,6 +118,7 @@ const achievements = [
     year: '2024',
     events: [
       'Reached the mark of 150 Live Streams on YouTube',
+      'Reached 6K subscribers on YouTube',
     ]
   }
 ]
