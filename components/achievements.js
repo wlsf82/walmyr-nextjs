@@ -119,6 +119,7 @@ const achievements = [
     events: [
       'Reached the mark of 150 Live Streams on YouTube',
       'Reached 6K subscribers on YouTube',
+      'Reached 18K students on Udemy ⬆️',
     ]
   }
 ]
