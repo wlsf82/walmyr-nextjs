@@ -121,6 +121,7 @@ const achievements = [
       'Reached 6K subscribers on YouTube',
       'Reached 18.5K students on Udemy ⬆️',
       'Got to 30K enrollments on my Udemy courses ✨',
+      'Finished the first Test Design Masterclass 👨‍🏫',
     ]
   }
 ]
