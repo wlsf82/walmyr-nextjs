@@ -112,6 +112,7 @@ const achievements = [
       'I spoke at the first CypressConf 🎙️',
       'I spoke at TestJS Summit Berlin 🇩🇪',
       'Together with Alekson Fortes, we started a podcast called Tech & Accent 🎙️',
+      'Reached 1K followers on GitHub 🦑🐈‍⬛🐙',
     ]
   },
   {
