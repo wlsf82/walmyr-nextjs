@@ -119,7 +119,7 @@ const achievements = [
     events: [
       'Reached the mark of 150 Live Streams on YouTube',
       'Reached 6K subscribers on YouTube',
-      'Reached 18.5K students on Udemy ⬆️',
+      'Reached 19K students on Udemy ⬆️',
       'Got to 30K enrollments on my Udemy courses ✨',
       'Finished the first Test Design Masterclass 👨‍🏫',
       'Reached 1K followers on GitHub 🦑🐈‍⬛🐙',
