@@ -1,5 +1,9 @@
 const achievements = [
   {
+    year: '1982',
+    events: ['I was born 👩‍🍼']
+  },
+  {
     year: '2004',
     events: [
       'Internship in manual testing at Hewlett-Packard, Porto Alegre, RS, Brazil 🇧🇷'
