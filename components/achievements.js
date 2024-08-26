@@ -125,9 +125,9 @@ const achievements = [
       'Reached 19K students on Udemy ⬆️',
       'Got to 30K enrollments on my Udemy courses ✨',
       'Reached 1K followers on GitHub 🦑🐈‍⬛🐙',
-      'Launch of my first course at the Hotmart platform',
       'Finished the first and second Test Design Masterclass 👨‍🏫',
       'Reached 6.5K subscribers on YouTube',
+      'Launch of my first two courses at the Hotmart platform',
     ]
   }
 ]
