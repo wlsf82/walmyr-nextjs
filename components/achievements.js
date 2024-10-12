@@ -122,12 +122,12 @@ const achievements = [
     year: '2024',
     events: [
       'Reached the mark of 150 Live Streams on YouTube',
-      'Reached 19K students on Udemy ⬆️',
       'Got to 30K enrollments on my Udemy courses ✨',
       'Reached 1K followers on GitHub 🦑🐈‍⬛🐙',
       'Finished the first and second Test Design Masterclass 👨‍🏫',
       'Reached 6.5K subscribers on YouTube',
       'Launch of my first two courses at the Hotmart platform',
+      'Reached 20K students on Udemy ⬆️',
     ]
   }
 ]
