@@ -124,10 +124,10 @@ const achievements = [
       'Reached the mark of 150 Live Streams on YouTube',
       'Got to 30K enrollments on my Udemy courses ✨',
       'Reached 1K followers on GitHub 🦑🐈‍⬛🐙',
-      'Finished the first and second Test Design Masterclass 👨‍🏫',
       'Reached 6.5K subscribers on YouTube',
       'Launch of my first two courses at the Hotmart platform',
       'Reached 20K students on Udemy ⬆️',
+      'Finished the first, second, and third Test Design Masterclass 👨‍🏫',
     ]
   }
 ]
