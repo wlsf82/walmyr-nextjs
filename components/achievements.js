@@ -129,7 +129,11 @@ const achievements = [
       'Finished the first, second, and third Test Design Masterclass 👨‍🏫',
       'Got to 35K enrollments on my Udemy courses ✨',
     ]
-  }
+  },
+  {
+    year: '2025',
+    events: ['Launch of the Talking About Testing podcast 🎙️']
+  },
 ]
 
 export default achievements
