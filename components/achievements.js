@@ -135,6 +135,7 @@ const achievements = [
     events: [
       'Launch of the Talking About Testing podcast 🎙️',
       'Reached 21K students on Udemy ⬆️',
+      'Reached 7K subscribers on Udemy',
     ]
   },
 ]
