@@ -3,7 +3,7 @@ import { list } from '../styles/utils.module.css'
 const menuItems = [
   {
     title: 'Courses',
-    url: 'https://udemy.com/user/walmyr/'
+    url: 'https://talking-about-testing.vercel.app/'
   },
   {
     title: 'GitHub',
