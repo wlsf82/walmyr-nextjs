@@ -133,7 +133,7 @@ const achievements = [
   {
     year: '2025',
     events: [
-      'Launch of the Talking About Testing signature service ✍️',
+      'Launch of the Talking About Testing Signature service ✍️',
       'Launch of the Talking About Testing podcast 🎙️',
       'Reached 21K students on Udemy ⬆️',
       'Reached 7K subscribers on YouTube',
