@@ -135,9 +135,9 @@ const achievements = [
     events: [
       'Launch of the Talking About Testing Signature service ✍️',
       'Launch of the Talking About Testing podcast 🎙️',
-      'Reached 21K students on Udemy ⬆️',
       'Reached 7K subscribers on YouTube',
       'Finished the fourth Test Design Masterclass 👨‍🏫',
+      'Reached 22K students on Udemy ⬆️',
     ]
   },
 ]
