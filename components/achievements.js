@@ -137,7 +137,7 @@ const achievements = [
       'Launch of the Talking About Testing podcast 🎙️',
       'Reached 7K subscribers on YouTube',
       'Finished the fourth Test Design Masterclass 👨‍🏫',
-      'Reached 22K students on Udemy ⬆️',
+      'Reached 22.5K students on Udemy ⬆️',
     ]
   },
 ]
