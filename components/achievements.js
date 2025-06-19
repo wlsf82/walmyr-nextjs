@@ -110,7 +110,7 @@ const achievements = [
     events: [
       'Reached 17K students on Udemy ⬆️',
       'Got to 25K enrollments on my Udemy courses ✨',
-      'Reached 5.5K subscribers on YouTube 🥳',
+      'Reached 5,5K subscribers on YouTube 🥳',
       'Reached the mark of 100 Live Streams on YouTube 💯',
       'The Talking About Testing channel is sponsored by Zero Defect',
       'I spoke at the first CypressConf 🎙️',
@@ -123,7 +123,7 @@ const achievements = [
     events: [
       'Reached the mark of 150 Live Streams on YouTube',
       'Reached 1K followers on GitHub 🦑🐈‍⬛🐙',
-      'Reached 6.5K subscribers on YouTube',
+      'Reached 6,5K subscribers on YouTube',
       'Launch of my first two courses at the Hotmart platform',
       'Reached 20K students on Udemy ⬆️',
       'Finished the first, second, and third Test Design Masterclass 👨‍🏫',
@@ -135,9 +135,9 @@ const achievements = [
     events: [
       'Launch of the Talking About Testing Signature service ✍️',
       'Launch of the Talking About Testing podcast 🎙️',
-      'Reached 7K subscribers on YouTube',
       'Finished the fourth Test Design Masterclass 👨‍🏫',
-      'Reached 22.5K students on Udemy ⬆️',
+      'Reached 22,5K students on Udemy ⬆️',
+      'Reached 7,5K subscribers on YouTube',
     ]
   },
 ]
