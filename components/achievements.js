@@ -70,7 +70,7 @@ const achievements = [
   {
     year: '2018',
     events: [
-      'Moved from Oslo to Amsterdam, Netherlands 🇳🇱',
+      'Moved from Oslo to Amsterdam, The Netherlands 🇳🇱',
       'Launch of the Talking About Testing online school 👨‍🏫'
     ]
   },
