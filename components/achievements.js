@@ -138,6 +138,7 @@ const achievements = [
       'Finished the fourth Test Design Masterclass 👨‍🏫',
       'Reached 22.5K students on Udemy ⬆️',
       'Reached 7.5K subscribers on YouTube',
+      'Launch of the no-code testing open-source project: El Genio',
     ]
   },
 ]
