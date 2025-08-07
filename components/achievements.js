@@ -136,7 +136,6 @@ const achievements = [
       'Launch of the Talking About Testing Signature service ✍️',
       'Launch of the Talking About Testing podcast 🎙️',
       'Finished the fourth Test Design Masterclass 👨‍🏫',
-      'Reached 22.5K students on Udemy ⬆️',
       'Reached 7.5K subscribers on YouTube',
       'Launch of the no-code testing open-source project: El Genio 🧞‍♂️',
       'Reached 23K students on Udemy ⬆️',
