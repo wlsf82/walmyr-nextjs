@@ -139,6 +139,7 @@ const achievements = [
       'Reached 7.5K subscribers on YouTube',
       'Launch of the no-code testing open-source project: El Genio 🧞‍♂️',
       'Reached 23K students on Udemy ⬆️',
+      'I spoke at the CypressConf 2025 🎙️',
     ]
   },
 ]
