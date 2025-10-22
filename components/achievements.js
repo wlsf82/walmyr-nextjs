@@ -137,7 +137,7 @@ const achievements = [
       'Launch of the Talking About Testing podcast 🎙️',
       'Finished the fourth Test Design Masterclass 👨‍🏫',
       'Reached 7.5K subscribers on YouTube',
-      'Launch of the no-code testing open-source project: El Genio 🧞‍♂️',
+      'Launch of El Genio - an open-source no-code testing tool 🧞‍♂️',
       'Reached 23K students on Udemy ⬆️',
       'I spoke at the CypressConf 2025 🎙️',
     ]
