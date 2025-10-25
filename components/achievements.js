@@ -135,12 +135,12 @@ const achievements = [
     events: [
       'Launch of the Talking About Testing Signature service ✍️',
       'Launch of the Talking About Testing podcast 🎙️',
-      'Finished the fourth Test Design Masterclass 👨‍🏫',
       'Reached 7.5K subscribers on YouTube',
       'Launch of El Genio - an open-source no-code testing tool 🧞‍♂️',
       'Reached 23K students on Udemy ⬆️',
       'Joined Leadtech as a Senior QA Engineer / Advisor',
       'I spoke at the CypressConf 2025 🎙️',
+      'Finished the fourth and fifth Test Design Masterclass 👨‍🏫',
     ]
   },
 ]
