@@ -141,6 +141,7 @@ const achievements = [
       'Joined Leadtech as a Senior QA Engineer / Advisor',
       'I spoke at the CypressConf 2025 🎙️',
       'Finished the fourth and fifth Test Design Masterclass 👨‍🏫',
+      'Got to 40K+ enrollments on my Udemy courses 📈',
     ]
   },
 ]
