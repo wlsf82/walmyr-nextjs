@@ -144,6 +144,12 @@ const achievements = [
       'Reached 24K students on Udemy ⬆️',
     ]
   },
+  {
+    year: '2026',
+    events: [
+      'Launch of the Vibe Testing service',
+    ]
+  },
 ]
 
 export default achievements
