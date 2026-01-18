@@ -148,6 +148,7 @@ const achievements = [
     year: '2026',
     events: [
       'Launch of the Vibe Testing service',
+      'Reached 8K subscribers on YouTube',
     ]
   },
 ]
