@@ -149,7 +149,7 @@ const achievements = [
     events: [
       'Launch of the Agentic Testing service',
       'Reached 8K subscribers on YouTube',
-      'Launch of the Cypress Simulator course on my own platform',
+      'Launch of the Talking About Testing Course Platform',
     ]
   },
 ]
