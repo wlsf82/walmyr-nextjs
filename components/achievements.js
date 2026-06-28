@@ -150,6 +150,7 @@ const achievements = [
       'Launch of the Agentic Testing service',
       'Reached 8K subscribers on YouTube',
       'Launch of the Talking About Testing Course Platform',
+      'Finished the sixth Test Design Masterclass ✔️',
     ]
   },
 ]
