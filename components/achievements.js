@@ -1,4 +1,4 @@
-const achievements = [
+You const achievements = [
   {
     year: '1982',
     events: ['I was born 👩‍🍼']
@@ -151,6 +151,7 @@ const achievements = [
       'Reached 8K subscribers on YouTube',
       'Launch of the Talking About Testing Course Platform',
       'Finished the sixth Test Design Masterclass ✔️',
+      'Reached 25K students on Udemy 🚀',
     ]
   },
 ]
