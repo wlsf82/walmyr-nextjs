@@ -1,4 +1,4 @@
-You const achievements = [
+const achievements = [
   {
     year: '1982',
     events: ['I was born 👩‍🍼']
