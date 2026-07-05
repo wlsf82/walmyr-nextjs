@@ -152,6 +152,7 @@ const achievements = [
       'Launch of the Talking About Testing Course Platform',
       'Finished the sixth Test Design Masterclass ✔️',
       'Reached 25K students on Udemy 🚀',
+      'TAT on Instagram 📷',
     ]
   },
 ]
