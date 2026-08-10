@@ -153,6 +153,7 @@ const achievements = [
       'Finished the sixth Test Design Masterclass ✔️',
       'Reached 25K students on Udemy 🚀',
       'TAT on Instagram 📷',
+      'Got the Spanish citizenship 🇪🇸',
     ]
   },
 ]
