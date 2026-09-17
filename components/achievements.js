@@ -151,9 +151,9 @@ const achievements = [
       'Reached 8K subscribers on YouTube',
       'Launch of the Talking About Testing Course Platform',
       'Finished the sixth Test Design Masterclass ✔️',
-      'Reached 25K students on Udemy 🚀',
       'TAT on Instagram 📷',
       'Got the Spanish citizenship 🇪🇸',
+      'Reached 26K students on Udemy 🚀',
     ]
   },
 ]
